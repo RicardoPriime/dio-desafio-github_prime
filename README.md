@@ -2,5 +2,5 @@
 desafio de projeto DIO sobre git / github
 Criar repositorio no github,  baixar para host local, alter projeto, subir para host remoto
 **links uteis:
-http://markdownpad.com/download.html
-https://www.markdownguide.org/
+(Download MarkdownPad) [http://markdownpad.com/download.html]
+(guia de sintaxe Markdown) [https://www.markdownguide.org/]
